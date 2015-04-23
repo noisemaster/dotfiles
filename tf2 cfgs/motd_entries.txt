@@ -1,0 +1,18 @@
+"motd_entries"
+{
+	"last_request_time"		"2014-07-08 23:18:48"
+	"last_request_language"		"english"
+	"59"
+	{
+		"post_time"		"2014-07-08 21:00:00"
+		"title_english"		"Mann Co. Beta Maps"
+		"text_english"		"Introducing TF2 Beta Maps where we are giving the community early access to our new maps.  Check them out by going to quickplay and opting in to Play Beta Maps.
+			
+For more details on Beta Maps, check out the TF2 website by clicking the button below."
+		"url"		"http://www.teamfortress.com/"
+		"image"		"illustrations/gamemode_robotdestruction_beta"
+		"header_type"		"1"
+		"header_english"		"Early Access"
+		"header_icon"		"class_icons/filter_all_motd"
+	}
+}
