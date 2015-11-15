@@ -1,0 +1,26 @@
+BoldAsFont=no
+Term=xterm-256color
+Transparency=low
+Font=Monaco
+FontHeight=11
+
+ForegroundColour = 242, 243, 242
+BackgroundColour =  45,  43,  51
+CursorColour     = 242, 243, 242
+
+Black=45,43,51
+BoldBlack=117,116,122
+Red=200,108,117
+BoldRed=200,108,117
+Green=198,209,192
+BoldGreen=198,209,192
+Yellow=229,193,150
+BoldYellow=229,193,150
+Blue=130,148,180
+BoldBlue=130,148,180
+Magenta=232,144,126
+BoldMagenta=232,144,126
+Cyan=169,205,217
+BoldCyan=169,205,217
+White=242,243,242
+BoldWhite=242,243,242
