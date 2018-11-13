@@ -2,9 +2,11 @@
 source $HOME/.config/antigen.zsh
 
 # BG_NICE has some issues in WSL, so disable it
+# https://github.com/Microsoft/WSL/issues/1887
 unsetopt BG_NICE
 
 # The default dircolors in WSL has a lot of contrast issues
+# from https://github.com/seebi/dircolors-solarized
 eval `dircolors ~/.dircolors.256dark`
 path+=$HOME/.bin
 export PATH
